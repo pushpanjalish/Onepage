@@ -35,8 +35,8 @@ body{
 	color: #4682B4;
 }
 .php{
-	width: 70%;
-	margin-top: 15%;
+	width: 100%%;
+	margin-top: 5%;
 }
 /*.mysql{
 	margin-top: -90%;
@@ -161,13 +161,16 @@ font-size: 18px;
   	flex-direction: column;
   }
   .first{
-  	background-image: none;
+  	/*background-image: none;*/
+  	/*background-color: #D5DBDB ;*/
   	height: 450px;
-  	background-size: 100%,100%;
+  	background-size: cover;
   }
   .first1{
-  	font-size: 12px;
+  	font-size: 25px;
   	top: 22%;
+  	right: 1%;
+  	left: 35px;
   }
 .resize{
 	width: 50%;
@@ -178,10 +181,12 @@ font-size: 18px;
  flex-direction: column;
 	}
 	.content p{
-	font-size: 10px;
+	font-size: 12px;
 	border: 0;
 	margin: 2px;
 	margin-left: 5px;
+	word-spacing: 2px;
+	letter-spacing: 1px;
 	}
 	.third{
 		background-image: none;
@@ -190,20 +195,23 @@ font-size: 18px;
   	background-size: 100%,100%;
 	}
 	.flex{
-	display: flex;
-	flex-wrap: wrap;
-	padding-left: 20px;
-	padding-top: 5px;
+	/*display: flex;
+	flex-wrap: wrap;*/
+	padding-left: 11px;
+	padding-top: 33px;
 }
 .box{
 	flex-wrap: wrap;
 	width: 95px;
-	font-size: 10px;
+	font-size: 14px;
+	text-align: center;
 }
 .des{
-	font-size: 10px;
+	font-size: 12px;
 	margin: 2px;
-	margin-left: 5px;
+	margin-left: 6px;
+	word-spacing: 2px;
+	letter-spacing: 1px;
 }
 .flex{
 	display: flex;
@@ -219,18 +227,22 @@ font-size: 18px;
 
 }
 .box1{
- width: 20%;
-margin-top: 59px;
- font-size: 7px;
- height: 70px;
- left: 170px;
+ width: 60%;
+margin-top: 50px;
+ font-size: 12px;
+ height: 87px;
+ left: 111px;
+ padding: 2PX;
+ letter-spacing: 1PX;
 }
 .box2{
- width: 22%;
-margin-top: 227px;
- font-size: 7px;
- left: 40px;
- height: 80px;
+ width: 60%;
+margin-top: 213px;
+ font-size: 12px;
+ left: -12px;
+ height: 102px;
+ padding: 2px;
+ letter-spacing: 1px;
 }
 .firstp{
  width: 88%;
@@ -250,5 +262,8 @@ font-size: 14px;
 .icon{
 	margin-left: 155px;
 }
-
+.logo{
+	left: 2px;
+	width: 40%;
+	}
 }
