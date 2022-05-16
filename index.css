@@ -122,17 +122,19 @@ body{
 
 }
 .both {
-    display: flex;
-    margin-left: 374px;
+    /* display: flex; */
+    margin-left: 392px;
 }
 .firstp {
-    border: 0;
-    margin: 10px;
-    margin-left: 160px;
+    /* border: 0; */
+    /* margin: -2px; */
+    margin-left: 320px;
 }
-.secondp{
-border: 0;
-margin: 10px;
+.secondp {
+    /* border: 0; */
+    /* margin: 10px; */
+    margin-top: -166px;
+    margin-left: 153px;
 }
 .icon {
     margin-left: 652px;
