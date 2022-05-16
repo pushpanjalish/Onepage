@@ -121,11 +121,9 @@ body{
 
 
 }
-.both{
-	display: flex;
-	margin-left: 253px;
-
-
+.both {
+    display: flex;
+    margin-left: 374px;
 }
 .firstp {
     border: 0;
