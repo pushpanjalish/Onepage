@@ -8,10 +8,10 @@
   height: 600px;
   
 }
-.first1{
-	position: absolute;
-	right: 5%;
-	top: 40%;
+.first1 {
+    position: absolute;
+    right: 18%;
+    top: 52%;
 }
 body{
 	margin: 0;
@@ -34,9 +34,11 @@ body{
 	text-align: justify;
 	color: #4682B4;
 }
-.php{
-	width: 100%%;
-	margin-top: 5%;
+.php {
+    width: 100%%;
+    margin-top: 11%;
+    right: 129px;
+    position: relative;
 }
 /*.mysql{
 	margin-top: -90%;
@@ -91,27 +93,27 @@ body{
 .two{
 	width: 50%;
 }
-.box1{
-	width: 300px;
-	border: 2px solid black;
-	left: 200px;
-	position: absolute;
-	margin-top: 139px;
-	margin-left: -45px;
-	font-size: 20px;
-	background-color: rgba(0, 0, 0, 0.3);
-	color: white;
+.box1 {
+    width: 300px;
+    border: 2px solid black;
+    left: 213px;
+    position: absolute;
+    margin-top: 209px;
+    margin-left: -45px;
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.3);
+    color: white;
 }
-.box2{
-	width: 300px;
-	border: 2px solid black;
-	left: 582px;
-	position: absolute;
-	margin-top: 139px;
-	margin-left: 77px;
-	font-size: 20px;
-	color: white;
-	background-color: rgba(0, 0, 0, 0.3);
+.box2 {
+    width: 300px;
+    border: 2px solid black;
+    left: 765px;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 77px;
+    font-size: 20px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.3);
 }
 .ready{
 	text-align: center;
@@ -125,20 +127,20 @@ body{
 
 
 }
-.firstp{
-	border: 0;
-	margin: 10px;
-	margin-left: 160px;
+.firstp {
+    border: 0;
+    margin: 10px;
+    margin-left: 160px;
 }
 .secondp{
 border: 0;
 margin: 10px;
 }
-.icon{
-margin-left: 503px;
-border: 2px solid darkred;
-width: 33px;
-font-size: 20px;
+.icon {
+    margin-left: 652px;
+    border: 2px solid darkred;
+    width: 33px;
+    font-size: 20px;
 }
 .icon p{
 	border: 2px solid darkred;
